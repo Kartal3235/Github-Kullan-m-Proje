@@ -12,5 +12,7 @@ public class özellik1 {
 
         System.out.println("git-github çalışıyorum");
 
+        System.out.println("coding gönderildi");
+
     }
 }
